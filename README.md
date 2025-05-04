@@ -1,2 +1,1 @@
-## SkySense
-#Weather Chatbot
+## SkySense Weather Chatbot
