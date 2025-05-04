@@ -1,0 +1,9 @@
+openai
+faiss-cpu
+streamlit
+python-dotenv
+requests
+meteostat
+pandas
+matplotlib
+textblob
